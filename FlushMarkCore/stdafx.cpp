@@ -1,8 +1,4 @@
-// stdafx.cpp : source file that includes just the standard includes
-// FlushMarkCore.pch will be the pre-compiled header
-// stdafx.obj will contain the pre-compiled type information
+// Copyright (c) 2012, Paul Groke
+// For conditions of distribution and use, see copyright notice in LICENSE.txt
 
 #include "stdafx.h"
-
-// TODO: reference any additional headers you need in STDAFX.H
-// and not in this file

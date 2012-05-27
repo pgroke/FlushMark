@@ -4,3 +4,5 @@
 /FlushMark/obj
 /FlushMarkCore/obj
 *.opensdf
+*.suo
+/ipch

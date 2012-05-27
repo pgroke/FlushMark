@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Copyright (c) 2012, Paul Groke
+// For conditions of distribution and use, see copyright notice in LICENSE.txt
+
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;

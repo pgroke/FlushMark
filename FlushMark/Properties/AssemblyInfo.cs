@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+﻿// Copyright (c) 2012, Paul Groke
+// For conditions of distribution and use, see copyright notice in LICENSE.txt
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
