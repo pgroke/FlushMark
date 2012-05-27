@@ -1,0 +1,6 @@
+
+*.sdf
+/bin
+/FlushMark/obj
+/FlushMarkCore/obj
+*.opensdf
